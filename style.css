@@ -1,0 +1,102 @@
+.body{
+    margin: 0px;
+    text-align: center;
+    background-color: white;
+    font-size: 18px;
+    font-family: 'Chivo', sans-serif;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 1.8em;
+    margin-top: 0px;
+    padding-top: 110px;
+    padding-bottom: 180px;
+    color:white;
+}
+.boton{
+    text-decoration: none;
+    font-family: 'Lora', sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 45px;
+    padding-right: 45px;
+    cursor: pointer;
+    font-size: 0.6em;
+    background-color: #2962ff;
+    color: white;
+   
+}
+
+#subtitulo{
+    font-size: 0.7em;
+    opacity: 0.5;
+}
+
+.banner{
+    background-image: url(images/portada5.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.container{
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+
+.footer{
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    text-align:left;
+    background-color:#2d3d4b ;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+}
+
+.container,.footer{
+text-align: left;
+padding-left: 210px;
+
+}
+.shanghai{
+    color: #051723;
+    margin-left: 0px;
+    border-radius: 4px;
+    display: inline-block;
+    width: 220px;
+    height: 315px;
+    padding: 20px;    
+    text-align: left;
+    box-shadow: 2px 2px 5px #999;
+
+}
+.london,.paris{
+    color: #051723;
+    margin-left: 28px;
+    border-radius: 4px;
+    display: inline-block;
+    width: 220px;
+    height: 315px;
+    padding: 20px;    
+    text-align: left;
+    box-shadow: 2px 2px 5px #999;
+ 
+}
+#london,#paris,#shanghai{
+    border-radius: 4px;
+}
+#titshanghai,#titlondon,#titparis{
+    font-size: 20px;
+    color: #2d3d4b;
+}
+#p1{
+    font-size: 19px;
+    padding-top: 0px;
+    color: #051723;
+}
+
